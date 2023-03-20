@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746332115602",
+    "project_id": "cldcflutter",
+    "storage_bucket": "cldcflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746332115602:android:8a41de5d3ba5c9e9b54c4b",
+        "android_client_info": {
+          "package_name": "com.example.test_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746332115602-7hls6psuftufnaa9g2rh69epul8chru0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3BCfwZTkZnv_BP78qFBN0EvK5vuyKfG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746332115602-7hls6psuftufnaa9g2rh69epul8chru0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
